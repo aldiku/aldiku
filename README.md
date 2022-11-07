@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldiku
-- 👀 I’m interested in PHP, GO, Node JS
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on PHP Framework (Laravel / CI) and Golang
+- 👀 I’m interested in PHP, GO, Node JS, Flutter, React Native, Svelte
+- 🌱 I’m currently learning GO, Python, C#
+- 💞️ Looking for remote work as a developer
 - 📫 How to reach me : Send Email to ncs.aldi@gmail.com
 
 <!---
