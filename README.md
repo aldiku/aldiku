@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aldiku
-- 👀 I’m interested in PHP, GO, Node JS, Flutter, React Native, Svelte
-- 🌱 I’m currently learning GO, Python, C#
+- 👋 Hi, I’m @aldi
+- 👀 I’m currently making app in GO, PHP, ReactJS, Flutter, React Native, And Svelte
+- 🌱 I’m currently learning C#
 - 💞️ Looking for remote work as a developer
 - 📫 How to reach me : Send Email to ncs.aldi@gmail.com
 
